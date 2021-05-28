@@ -1,0 +1,11 @@
+h1{
+	text-align: center;
+}
+.block1{
+	float: left;
+	width: 50%
+}
+.block2{
+	float: right;
+	width: 50%;
+}
